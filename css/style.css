@@ -1,0 +1,22 @@
+h1{
+    font-size: 40px;
+}
+
+p{
+ font-size: 25px;
+}
+
+.itens{
+    gap: 50px;
+    font-size: 20px;
+    justify-content: left;
+    display: flex;
+    background-color: blue;
+    padding: 10px 100px;
+
+
+}
+
+#link{
+    color: white;
+}
